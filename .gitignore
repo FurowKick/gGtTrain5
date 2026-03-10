@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/WinFormsApp1/WinFormsApp1/obj
+/WinFormsApp1/.vs/WinFormsApp1
+/WinFormsApp1/WinFormsApp1/WinFormsApp1.csproj.user
